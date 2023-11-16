@@ -1,0 +1,4 @@
+http://www.geeksforgeeks.org/backtracking-set-7-suduku/
+backtracking part
+http://www.geeksforgeeks.org/program-sudoku-generator/
+logic to generate sudoku

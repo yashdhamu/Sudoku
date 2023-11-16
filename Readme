@@ -1,0 +1,24 @@
+Title : Sudoku game using GTK graphical user interface
+Name  : Yash A. Dhamecha 
+MIS   : 111608067
+
+
+
+Description : This game allows user to play Sudokugame using graphical interface. 
+	      This game can generate 2x2, 3x3, 4x4 sudoku game with variable difficulty level
+	      starting from easy to hard.
+	      It allows to save game, peek solution of the current game while playing itself.
+	      We can also submit our final ans to check if we have entered elements at their
+	      proper place.
+	      We can also solve a Sudoku game problem in this program i.e if we provide progam a
+	      a Sudoku question it gives us solution of that question.
+	      
+	      
+	      For generating a game it first fill the diagnal matrices fo the grid and then fills
+	      remaining elements according to them. It the randomy removes specific no. of elements
+	      from the board produced according to the difficult level choosed.
+	      After generating Board it saves that board so that becomes our solution,
+	      and after removing elements the board produced becomes our question that i have saved in
+	      another file for futher use.
+	      Savegame function works on similar lines. 
+	      
